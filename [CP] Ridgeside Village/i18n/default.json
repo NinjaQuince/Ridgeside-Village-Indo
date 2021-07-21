@@ -614,7 +614,7 @@
 "event-75160186.01"
 : "Astaga Lenny! Jangan keras-keras!$a#$b#Gimana kalau ada yang dengar? Mereka akan tahu kalau aku dan--$a",
 "event-75160186.02"
-: "Tenang, Lewlew! Takkan ada yang peduli. Oh iya, aku harus pergi.#$b#Kerjaanku masih banyak. Terima kasih banyak sudah membantuku.$4",
+: "Tenang, Lewlew! Tidak ada yang peduli. Oh iya, aku harus pergi.#$b#Kerjaanku masih banyak. Terima kasih banyak sudah membantu.$4",
 "event-75160186.03"
 : "Berhenti memanggilku seperti itu!$a#$b#Lagian salahmu sendiri terus menunda-nunda!$a",
 "event-75160186.04"
@@ -624,7 +624,7 @@
 "event-75160186.06"
 : "@!$s#$b#Oh! Er... Senang melihatmu!$s#$b#Jadi... kau dengar soal tadi ya?$u#$b#Argh, Lenny!$u",
 "event-75160186.07"
-: "Itu tadi Lenny, kakakku. Dia kesini untuk memberiku laporan keuangan Ridgeside Village dari tahun lalu.",
+: "Itu tadi Lenny, kakakku. Dia kesini untuk memberi laporan keuangan Ridgeside Village dari tahun lalu.",
 "event-75160186.08"
 : "Ridgeside Village? Oh, kakekmu belum pernah cerita?#$b#Itu adalah desa tetangga yang ada di barat gunung. Kamu bisa naik trem untuk naik kesana.$h#$b#Trem itu adalah mukjizat teknologi. Entah bagaimana mereka bisa punya...#$b#Kudengar ada warganya yang sangat dekat dengan Gubernur...$a",
 "event-75160186.09"
@@ -635,189 +635,189 @@
 : "Ridgeside Village ya?#Kapan-kapan aku harus kesana...",
 //Greenhouse1 restoration
 "event-75160174.01"
-: "I'm glad everyone could make it to our small gathering!$h#$b#We have finally gathered enough funds to restore this Greenhouse, and with this, a step further to development!$h#$b#I would like to thank everybody for their hard work. And to that..#$b#I hereby declare this public Greenhouse open!$h#$b#Certain individuals have already claimed certain plots inside the Greenhouse.$h#$b#I expect to see amazing produce from you all!$h#$b#Once again, thank you to all of you!$h",
+: "Terima kasih telah datang ke pertemuan kecil ini!$h#$b#Dana yang kita kumpulkan telah cukup untuk memulihkan Greenhouse ini, satu langkah terlampaui demi kemajuan desa!$h#$b#Saya mau berterima kasih atas kerja keras semuanya. Dan untuk itu..#$b#Saya nyatakan Greenhouse umum ini dibuka!$h#$b#Ada orang yang sudah memilih tempat di dalam Greenhouse.$h#$b#Aku nantikan produk hebat dari kaian!$h#$b#Sekali lagi, terima kasih banyak!$h",
 "event-75160174.02"
-: "This is exciting!",
+: "Luar biasa!",
 "event-75160174.03"
-: "Nice!",
+: "Bagus!",
 "event-75160174.04"
-: "More plants!",
+: "Tanaman!",
 "event-75160174.05"
-: "Oh, cool",
+: "Keren",
 "event-75160174.06"
-: "Wonderful!",
+: "Mantap!",
 "event-75160174.07"
-: "More guests!",
+: "Banyak tamu!",
 "event-75160174.08"
-: "A new Greenhouse!#I'm glad Lenny gave me my own plot to plant crops inside!#This can be helpful",
+: "Greenhouse baru!#Aku senang Lenny memberiku petak di dalamnya!#Ini akan berguna",
 
 //Farmer sees Aguar perform magic. (Aguar 2 hearts)
 "event-75160061.01"
-: "Tongue of a serpent, aquamarine... Let's hope this works.#$b#SCRUTARI MULTIPLICITER AGRICOLA!$4",
+: "Lidah Serpent, Aquamarine... Semoga berhasil.#$b#SCRUTARI MULTIPLICITER AGRICOLA!$4",
 "event-75160061.02"
-: "That should do it.#$b#That's all the laundry done for this week!$h",
+: "Kurasa itu cukup.#$b#Cucian minggu ini sudah beres!$h",
 "event-75160061.03"
-: "@?!$u#$b#WHY ARE YOU HERE!?$a#$b#WHAT HAVE YOU SEEN!?$a",
+: "@?!$u#$b#KENAPA KAMU DISINI!?$a#$b#APA SAJA YANG SUDAH KAU LIHAT!?$a",
 "event-75160061.04"
-: "Hmmm...$a#$b#I reckon you would have figured it out soon anyway...#$b#...Given your annoyingly curious nature.$a",
+: "Hmmm...$a#$b#Kurasa kau juga akan mengetahuinya...#$b#...Karena sifat ingin tahumu itu.$a",
 "event-75160061.05"
-: "What should I say?",
+: "Aku harus bilang apa?",
 "event-75160061.06"
-: "Was that magic!?",
+: "Apa itu tadi sihir!?",
 
 	//"Was that magic!?",
 "event-75160061.AguarFork1"
-: "Hmmmm..$a#$b#Yes, that was magic, @.$a#$b#And no one was supposed to see that.",
+: "Hmmmm..$a#$b#Ya, itu tadi sihir, @.$a#$b#Dan seharusya tadi tidak ada yang boleh tahu.",
 "event-75160061.08"
-: "You have knowledge of the arcane?$u#$b#Perhaps I have underestimated you, farmer...",
+: "Kau punya ilmu sihir?$u#$b#Mungkin aku telah meremehkanmu, petani...",
 "event-75160061.09"
-: "I trust you to be secretive about what you have seen in my chambers.#$b#The inhabitants of this valley distrust the whimsical and the magical.#$b#They have convinced themselves that all other-worldly events are contained within the mines north of Pelican Town.",
+: "Aku yakin kau akan merahasiakan kejadian ini.#$b#Penduduk lembah ini tidak percaya dengan sihir.#$b#Mereka yakin bahwa peristiwa ganjil apapun hanya terjadi di dalam tambang utara Pelican Town.",
 "event-75160061.10"
-: "I am currently conducting research on a certain magical power emanating from below the village.#$b#It involves the river flowing through Ridgeside.",
+: "Aku sedang meneliti kekuatan sihir yang berasal dari bawah desa.#$b#Ini ada kaitannya dengan aliran sungai di Ridgeside.",
 "event-75160061.11"
-: "That's all you need to know for now, @.",
+: "Untuk saat ini cukup itu saja yang kau ketahui, @.",
 "event-75160061.12"
-: "Keep all of this to yourself.#$b#I'm doing this for the greater good.#$b#One day you'll understand.",
+: "Simpan untuk dirimu sendiri.#$b#Aku melakukan ini untuk kebaikan bersama.#$b#Suatu hari kau akan mengerti.",
 "event-75160061.13"
 : "One day...",
 
 	//"I'm going to tell everyone!",
 "event-75160061.07"
-: "I'm going to tell everyone!",
+: "Aku akan beritahu semua orang!",
 "event-75160061.AguarFork2"
-: "How dare you! %fork$a",
+: "Berani-beraninya! %fork$a",
 "event-75160061.AguarAngry1.01"
-: "I'd like to see you try.$4#$b#You'll be the perfect test subject.",
+: "Coba saja kalau begitu.$4#$b#Kau akan jadi subyek percobaan yang pas.",
 "event-75160061.AguarAngry1.02"
-: "You won't remember this. I'll make sure of it.$a#$b#Hmm...$4",
+: "Aku yakin kau takkan mengingatnya.$a#$b#Hmm...$4",
 "event-75160061.AguarAngry1.03"
-: "Greetings, @. Are you ready for your first day as one of my assistants?$h",
+: "Salam, @. Apa kau siap jadi asistenku di hari pertamamu?$h",
 
 //Aguar and Rasmodius talk (Aguar 4 hearts)
 "event-75160062.01"
-: "Really, Aggie. I'll be fine with just a cup of water.#$b#It's been so long since we talked, old friend.$h",
+: "Sungguh, Aggie. Segelas air saja cukup buatku.#$b#Sudah lama kita tidak bicara, kawan lama.$h",
 "event-75160062.02"
-: "Nonsense! My friends deserve nothing but the best.#$b#Ah, this aged Ancient Fruit wine should do the trick.$h#$b#Bottoms up, Razzie!$h",
+: "Omong kosong! Temanku harus dapat yang terbaik.#$b#Ah, Wine Ancient Fruit ini pas sekali.$h#$b#Mari minum, Razzie!$h",
 "event-75160062.03"
-: "Dare I even ask where you found that bottle?#$b#I need to have a chat with Gunther...",
+: "Boleh kutahu darimana kau dapat itu?#$b#Aku mau berbincang dengan Gunther setelah ini...",
 "event-75160062.04"
-: "A magician never reveals his secrets.#$b#You know that better than I do.",
+: "Pesulap tidak pernah mengungkap triknya.#$b#Kau yang lebih tahu soal itu.",
 "event-75160062.05"
-: "That was only one time and it was decades ago!",
+: "Itu cuma terjadi sekali dan sudah sangat lama!",
 "event-75160062.06"
-: "Now, where were we...",
+: "Baiklah, sampai mana kita...",
 "event-75160062.07"
-: "@!?$u#$b#Why do you have the habit of only bothering me when I'm busy?$a",
+: "@!?$u#$b#Kenapa kau selalu saja mengganggu ketika aku sibuk?$a",
 "event-75160062.08"
-: "Ah, @. I didn't know you knew Aguar.",
+: "Ah, @. Aku tidak tahu kamu mengenal Aguar.",
 "event-75160062.09"
-: "Does young @ know about your secret, Aguar?",
+: "Apa @ muda ini tahu soal rahasiamu, Aguar?",
 "event-75160062.10"
-: "Unfortunately...$s#$b#This curious cat managed to weasel their way into my chambers.$a",
+: "Sayangnya begitu...$s#$b#Si kucing penasaran ini entah bagaimana bisa masuk ke kamarku.$a",
 "event-75160062.11"
-: "It shouldn't pose any problems.#$b#@ seems to be magically inclined. They might be the key to solving this mystery.#$b#Come, @. Make yourself at home.",
+: "Itu bukan masalah.#$b#@ percaya dengan sihir. Dia mungkin kunci untuk memecahkan misteri ini.#$b#Silakan, @. Anggap saja rumah sendiri.",
 "event-75160062.12"
-: "Hold right there, Rasmodius, this is still my domain.#$b#Don't get too carried away, now.",
+: "Tunggu dulu, Rasmodius, ini adalah rumahku.#$b#Jangan terbawa suasana dulu.",
 "event-75160062.13"
-: "I guess I'll have to provide you with a glass as well...",
+: "Kurasa aku harus memberimu segelas juga...",
 "event-75160062.14"
-: "Aguar, I believe it's best we resume discussing the traces of anima you've found in the river.#$b#I believe the source of that anima is what's causing the magical auras coming from below.",
+: "Aguar, mari kita lanjutkan diskusi tentang jejak anima yang kau temukan di sungai.#$b#Aku yakin sumer dari anima itu yang menyebabkan aura sihir muncul dari bawah.",
 "event-75160062.15"
-: "That's what I've been trying to tell Lenny and Lewis.#$b#A magical aura of this frequency can only bring bad things.#$b#It's the same strange power we felt in the mines, Calico, Castle Village...$s#$b#What if we're too late?",
+: "Itu yang selama ini aku coba beritahukan pada Lenny dan Lewis.#$b#Aura sihir dengan frekuensi ini hanya akan membawa hal buruk.#$b#Kekuatan aneh inilah yang kita rasakan juga di tambang, Calico, Castle Village...$s#$b#Bagaimana kalau sudah terlambat?",
 "event-75160062.16"
-: "We apologize, @. Let us fill you in with the details.",
+: "Maafkan kami, @. Akan kami beritahukan secara rinci.",
 "event-75160062.17"
-: "As you may know, Aguar is a retired wizard and an old colleague of mine.#$b#After retiring he became a man of science and delved deeper into the fields of hydrology, ecology, and geology.#$b#The cause for this sudden change. Well... go ahead, Aguar.",
+: "Seperti yang kau tahu, Aguar adalah pensiunan penyihir dan kawan lamaku.#$b#Setelah pensiun dia jadi ilmuwan yang mendalami bidang hidrologi, ekologi, dan geologi.#$b#Dan penyebab perubahan ini... Silakan dilanjutkan, Aguar.",
 "event-75160062.18"
-: "Many years ago, an unexplained magical pulse began emanating from below the village.#$b#It is still quite faint and unnoticeable to those without the proper tools.#$b#It's not strong enough to pose a threat, yet.#$b#But it's an energy we are all too familiar with.$s",
+: "Sekian tahun lalu, sebuah getaran sihir yang asing mulai terpancar dari bawah desa.#$b#Getarannya masih samar kalau tidak menggunakan alat yang tepat.#$b#Dan belum cukup kuat untuk jadi ancaman.#$b#Tapi energi ini sudah tak asing lagi bagi kami.$s",
 "event-75160062.19"
-: "This strange pulse is the cause of the increasing numbers of monsters in the mine.#$b#It has caused ancient inhabitants of the Calico Desert to reawaken for the first time in centuries.#$b#Worst of all, it keeps waking me up at night.$a#$b#Well... it became stronger after you arrived in the valley, @.#$b#We figured it was a coincidence until...",
+: "Getaran inilah yang menyebabkan jumlah monster di tambang meningkat.#$b#Dan menyebabkan penghuni di Calico Desert bangkit untuk pertama kalinya setelah berabad-abad.#$b#Dan parahnya, selalu membuatku terbangun di malam hari.$a#$b#Sebetulnya... getarannya semakin kuat ketika kau tiba di lembah, @.#$b#Kami kira itu sebuah kebetulan sampai...",
 "event-75160062.20"
-: "Until you barged into his chambers.#$b#His chambers are magically sealed. No mere human can enter.",
+: "Sampai kamu masuk ke kamarnya.#$b#Kamarnya disegel dengan sihir. Manusia biasa takkan bisa masuk.",
 "event-75160062.21"
-: "We'd like to ask you for your help.#$b#Perhaps you're not as useless as I thought you were, @!$h",
+: "Kami ingin meminta bantuanmu.#$b#Mungkin kamu lebih berguna dari yang kukira, @!$h",
 "event-75160062.22"
-: "I will monitor the mines in the meantime.#$b#If you need any assistance, please do not hesitate to warp to me, Aguar.#$b#For old time's sake.",
+: "Dan untuk sementara ini akan kuawasi tambangnya.#$b#Kapanpun kau butuh bantuan, jangan segan untuk teleportasi ke rumahku, Aguar.#$b#Demi mengenang masa lalu.",
 "event-75160062.23"
-: "I'll be fine, Rasmodius.#$b#This is my responsibility.",
+: "Aku akan baik-baik saja, Rasmodius.#$b#Ini sudah jadi tanggung jawabku.",
 "event-75160062.24"
-: "@, see if you can find more magical auras.#$b#I suggest the old community center in Pelican Town or the mines.#$b#I urge you to be careful.",
+: "@, coba cari aura sihirnya lagi.#$b#Cobalah Community Center di Pelican Town atau di tambang.#$b#Berhati-hatilah.",
 "event-75160062.25"
-: "Alright! Good!$h#$b#For now, I'd like to discuss more about the auras I've sensed at Castle Village with Rasmodius.#$b#You are free to stay if you desire.",
+: "Bagus!$h#$b#Setelah ini, aku mau membahas aura yang kurasakan di Castle Village dengan Rasmodius.#$b#Kau boleh tetap disini kalau mau.",
 "event-75160062.26"
-: "More wine?",
+: "Tambah?",
 "event-75160062.27"
-: "Absolutely!",
+: "Jelas!",
 "event-75160062.28"
-: "Mr. Aguar and Mr. Rasmodius have shown me there's more to Ridgeside Village than I thought.#I hope I can figure out the source of the strange power.",
+: "Mr. Aguar dan Mr. Rasmodius menunjukkan padaku bahwa ada sisi lain dari Ridgeside Village.#Semoga aku bisa mencari sumber kekuatan aneh itu.",
 "event-75160062.29"
 : "Stay safe, @.$s",
 
 //Aguar and Farmer find cave (Aguar 6 hearts)
 "event-75160063.01"
-: "I've done it!$h#$b#@, just in time!$h",
+: "Berhasil!$h#$b#@, kau tepat waktu!$h",
 "event-75160063.02"
-: "I believe I've finally succeeded!$h#$b#I may have just found the solution to our predicament!$h#$b#It took a great deal of effort.#$b#It required using samples to map the underwater geography of the region, combined with some complicated spellwork, but I have finally located the source of the strange power.",
+: "Sepertinya aku berhasil!$h#$b#Aku sudah menemukan solusi dari hambatan kita!$h#$b#Butuh usaha yang tekun.#$b#Ternyata butuh sampel untuk memetakan geografi perairan di bawah desa, dan gabungan mantera sihir. Akhirnya sumber kekuatan aneh sudah kutemukan lokasinya.",
 "event-75160063.03"
-: "Now, I will need your assistance in this next phase.#$b#Follow me.",
+: "Untuh tahap berikutnya aku membutuhkan bantuanmu.#$b#Ikuti aku.",
 "event-75160063.04"
-: "Hmm...#$b#If I'm not mistaken, these should be the coordinates.#$b#The keystone must be here somewhere...",
+: "Hmm...#$b#Kalau tidak salah, disinilah koordinatnya.#$b#Keystone itu harusnya ada disini...",
 "event-75160063.05"
-: "@, I need you to tap this rock with your thumb, pinky and index finger.#$b#Do not move while I am chanting this spell.",
+: "@, tekan batu ini dengan ibu jari, telunjuk, dan kelingkingmu.#$b#Dan jangan bergerak saat kurapalkan manteranya.",
 "event-75160063.06"
-: "Now...$4",
+: "Nah...$4",
 "event-75160063.07"
-: "WOAH! The ground collapsed under your feet!",
+: "WOAH! Tanah dibawahmu runtuh!",
 "event-75160063.08"
-: "@, are you still alive?#$b#Don't worry, I'm coming down.",
+: "@, apa kau masih hidup?#$b#Jangan khawatir, aku akan turun.",
 "event-75160063.09"
-: "Looks like you don't have any critical injuries.#$b#Come on, stand up now.#$b#Look what we have discovered!$h",
+: "Sepertinya tidak ada luka berat.#$b#Ayo, berdirilah.#$b#Lihat apa yang kita temukan!$h",
 "event-75160063.10"
-: "What? This growth... this is scientifically impossible.$u#$b#These trees seem to magically sprout from an even deeper source.",
+: "Apa? Pertumbuhannya... ini mustahil secara ilmu sains.$u#$b#Sepertinya pohon-pohon ini tumbuh dengan ajaib dari sumber yang lebih dalam lagi.",
 "event-75160063.11"
-: "Could they be growing through the bedrock below the river?$u#$b#That would cause the water to drain steadily into this cave-like structure.#$b#If they are destabilizing the bedrock, it will compromise the integrity of the entire ridge.#$b#If this continues, it'll create a giant sinkhole and the entire village might collapse!$u",
+: "Apa mereka tumbuh dari bawah batuan dasar sungai?$u#$b#Kalau iya, harusnya ada air mengaliri gua ini.#$b#Kalau mereka membuat batuan dasar tidak stabil, bisa-bisa seluruh punggung bukit ini keropos.#$b#Kalau ini berlanjut, akan menyebabkan dolin besar yang meruntukan seluruh desa!$u",
 "event-75160063.12"
-: "But we still have time.#$b#I need to figure out how to destroy those trees entirely.#$b#Not even their roots can remain.#$b#I'll grab a soil sample on the way out and analyze it back at the lab.",
+: "Tapi kita masih punya waktu.#$b#Aku harus cari cara untuk menghancurkan semua pohon ini.#$b#Sampai ke akar-akarnya.#$b#Aku akan mengambil sampel tanah dan menganalisanya di Lab.",
 "event-75160063.13"
-: "I will contact Rasmodius as well. If Ridgeside collapses, the ensuing landslide will eliminate Pelican Town as well.",
+: "Akan kuhubungi Rasmodius juga. Kalau Ridgeside runtuh, longsorannya akan membinasakan Pelican Town juga.",
 "event-75160063.14"
-: "@... I suggest you go home and rest for a while.#$b#You've been very helpful today. Thank you.$h#$b#I will notify you if anything changes.",
+: "@... Pulang dan istirahatlah.#$b#Kau sangat membantu hari ini. Terima kasih.$h#$b#Akan kuberitahu kalau ada perubahan.",
 "event-75160063.15"
-: "I believe in Mr. Aguar.#I can't lose hope...",
+: "Aku percaya pada Mr. Aguar.#Aku tak boleh putus asa...",
 "event-75160063.16"
-: "Great job today, @.$h#$b#Now if you'll excuse me, I need to be alone...$s",
+: "Kerja bagus hari ini, @.$h#$b#Kalau begitu permisi, aku sedang ingin sendiri...$s",
 
 //Aguar and farmer fix cave (Aguar 8 hearts)
 "event-75160064.01"
-: "@! You're finally awake!$a#$b#I came all this way to tell you the good news!$h#$b#I have found a way to destroy the growth and save our village.#$b#But I need your help.",
+: "@! Akhirnya kamu bangun juga!$a#$b#Aku jauh-jauh kesini membawa berita baik!$h#$b#Aku menemukan cara untuk menghancurkan pohon-pohon itu dan menyelamatkan desa kami.#$b#Tapi aku butuh bantuanmu.",
 "event-75160064.02"
-: "Excellent!$h#$b#Let's go, @. We should not waste any time.",
+: "Bagus!$h#$b#Kalau begitu ayo, @. Jangan buang-buang waktu.",
 "event-75160064.03"
-: "Here we go...",
+: "Baiklah...",
 "event-75160064.04"
-: "I have concocted a poison that will disintegrate the entirety of the growth.#$b#It also contains a spell that will amplify the mana within the poison's structure.#$b#The mana will remain after the poison is destroyed, and reincorporate into the fabric of mana protecting this valley, repairing any damage done.#$b#There's just one problem.$a#$b#These trees, if they can be called that, will regrow as long as the nutrients in this soil are freely available.#$b#That is where you come in. But first, the spell.",
+: "Aku membuat racun yang akan melenyapkan tumbuhan ini ke sampai akarnya.#$b#Di dalamnya juga ada mantera yang akan memperkuat mana di dalam racun.#$b#Mananya akan tetap ada setelah racunnya lenyap, dan memperbaiki struktur mana yang melindungi lembah.#$b#Tapi ada satu masalah.$a#$b#Pohon-pohon ini akan tumbuh lagi selama masih ada nutrisi di dalam tanah.#$b#Dan disitulah kau akan membantu. Tapi, manteranya dulu.",
 "event-75160064.05"
-: "Let's hope this works...$s",
+: "Semoga saja ini berhasil...$s",
 "event-75160064.06"
 : "ET LIGNUM DEBET MORI!$4",
 "event-75160064.07"
-: "Now, you have seeds on you, yes?#$b#Plant one. Any seed will do.",
+: "Nah, kau membawa benihnya kan?#$b#Tanamlah satu. Terserah mau benih apa saja.",
 "event-75160064.08"
-: "Good.$h#$b#With more like this, the nutrients in the soil will be reallocated and the growth will not reappear.",
+: "Bagus.$h#$b#Dengan banyak tanaman, nutrisi di tanah akan terpakai dan pertumbuhan mereka akan terhenti.",
 "event-75160064.09"
-: "@... this must remain a secret. But we have saved our valley from a catastrophe that would have ruined countless lives.#$b#Well done.$h#$b#You're not nearly as useless as I thought you would be.$h#$b#In truth, I am grateful for your help.",
+: "@... tolong rahasiakan ini. Kita telah menyelamatkan lembah dari bencana yang akan mengorbankan banyak nyawa.#$b#Kerja bagus.$h#$b#Ternyata kamu lebih berguna dari yang kukira.$h#$b#Jujur saja, aku berterima kasih atas bantuanmu.",
 "event-75160064.10"
-: "The maintenance of this cave falls to you, now.#$b#As long as this soil is being used, the bedrock is safe.#$b#The mana in this cave stabilizes the climate and mimics the effects of photosynthesis within the plants' cellular structures.#$b#In effect, you can grow anything at any time in this cave.#$b#Indeed, I strongly encourage you to do so!$h",
+: "Perawatan gua ini sekarang kuserahkan padamu.#$b#Selama tanah ini digunakan, batuan dasarnya akan selamat.#$b#Mana di gua telah ini menstabilkan iklim dan bisa meniru efek fotosintesis.#$b#Karena itu, kau bisa menanam apa saja dan kapan saja di gua ini.#$b#Benar, aku sarankan kamu melakukannya!$h",
 "event-75160064.11"
-: "I'm glad you barged into my chambers, @. You were truly the key.#$b#Now, I shall go back to my studies.#$b#This mystery has been solved, but there are many more remaining, most with less dire consequences.#$b#Magic and science together are truly limitless. I showed those old wizards!$h",
+: "Aku senang waktu itu kamu masuk ke kamarku, @. Kamu memanglah kuncinya.#$b#Sekarang, aku mau melanjutkan studiku.#$b#Misteri ini memang sudah dipecahkan. Tapi masih ada banyak lagi dan akibatnya tidak segawat ini.#$b#Paduan sihir dan sains memang tanpa batas. Dan akan kutunjukkan pada penyihir tua itu!$h",
 "event-75160064.12"
-: "You're welcome to visit my laboratory any time you wish, @.#$b#Ah, I almost forgot.#$b#This is for you. Thank you for all you have done.[499]$h",
+: "Datanglah ke laboratoriumku kapanpun kau mau, @.#$b#Ah, hampir lupa.#$b#Ini sesuatu untukmu. Terima kasih banyak atas bantuannya.[499]$h",
 "event-75160064.13"
-: "You received some Ancient Seeds from Mr. Aguar!",
+: "Kamu menerima Ancient Seed dari Mr. Aguar!",
 "event-75160064.14"
-: "I saved Ridgeside Village...#...or did I?",
+: "Aku menyelamatkan Ridgeside Village...#...atau benarkah itu?",
 "event-75160064.15"
-: "Don't forget to bring me a bottle sometimes.$h",
+: "Jangan lupa bawakan aku sebotol kapan-kapan.$h",
 
 //Alissa singing to herself (Alissa 2 hearts)
 "event-75160114.01"
@@ -4900,7 +4900,7 @@
 : "There seems to be something blocking the way.",
 
 "MapString.rsv.crystal"
-: "It's some kind of crystal.#For some reason, you really don't think you should touch it...",
+: "Semacam kristal.#Entah kenapa, kamu merasa itu tidak boleh disentuh...",
 
 "MapString.rsv.cleantrash"
 : "It's empty. Looks like the garbage was collected early in the morning.",
@@ -4943,7 +4943,7 @@
 "MapString.rsv.17"
 : "Someone carved something into the tree.#It says:#K < T.",
 "MapString.rsv.18"
-: "Round and round, the mill goes round and round again.",
+: "Putar, putar, kincirnya terus berputar.",
 "MapString.rsv.19"
 : "Liden Residence#Bert, Olga and Trinnie live here.",
 "MapString.rsv.20"
@@ -4967,13 +4967,13 @@
 "MapString.rsv.26"
 : "It's for children to play on.#It's old and rusty. No one's played on this in a long time.",
 "MapString.rsv.27"
-: "It looks like one of the structures on your farm.",
+: "Terlihat mirip seperti bangunan di kebunmu.",
 "MapString.rsv.28"
 : "Ridgeside Forest#SOUTH: Water Research Facility and Laboratory#WEST: Community Greenhouse",
 "MapString.rsv.29"
 : "What did the bee say to the other bee?#Honey, I'm home!",
 "MapString.rsv.30"
-: "Looks like fishing equipment.#Smells like...#fish.",
+: "Sepertinya ini alat memancing.#Baunya seperti...#ikan.",
 "MapString.rsv.31"
 : "You want to hug this tree, but you're afraid people will judge you.",
 "MapString.rsv.32"
@@ -4981,7 +4981,7 @@
 "MapString.rsv.33"
 : "Akina Residence#Pika and Keahi live here.",
 "MapString.rsv.34"
-: "Pretty sure I saw this horse walk into the Stardrop Saloon.",
+: "Aku yakin pernah melihat kuda ini berjalan ke Stardrop Saloon.",
 "MapString.rsv.35"
 : "Jeric's Shop#Blooming Hill Farm",
 "MapString.rsv.36"
@@ -5015,7 +5015,7 @@
 "MapString.rsv.50"
 : "Someone left a bottle of wine here.#There's still some left.",
 "MapString.rsv.51"
-: "I said hi to the horse.#The horse said hey.",
+: "Aku menyapa kudanya.#Kudanya menyapa balik.",
 
 "MapString.rsv.nobalcony"
 : "The balcony is locked. There's a sign:#'Reserved for special occasions.'",
@@ -5448,7 +5448,7 @@
 "MapString.rsv.sign2"
 : "`Trem menuju Ridgeside Village",
 "MapString.rsv.sign3"
-: "PERINGATAN!#Please secure your horse in the horse compartment.#We don't want another 'Pegasus' incident.#- Lenny",
+: "PERINGATAN!#Harap taruh kuda di kandang.#Kami tak ingin ada tragedi 'Pegasus' lagi.#- Lenny",
 "MapString.rsv.sign4"
 : "> Trem menuju Pelican Town#PERINGATAN!#Waspada dengan jatuhan batu, kayu, dll. saat hujan turun.",
 
@@ -5504,7 +5504,7 @@
 : "A figure covered in a black blanket...#'Shhh!! Don't be so loud, okay?'",
 
 "MapString.rsv.grave1"
-: "There's a faded text engraved in the tomb.^The words can barely be read.^'He-e l--s -rth-r-'",
+: "Ada tulisan yang tidak jelas terukir di makam.^'Di-in- be-i-t-r--at -rth-r-'",
 
 "MapString.rsv.brokencart"
 : "This cart looks broken. Better not touch it.",
@@ -8477,7 +8477,7 @@
 
 //Bert Dialogue
 "Bert.Dialogue.Introduction"
-: "Hey there, farmer!#$b#You just moved here, didn't you?#$b#The name's Bert!#$b#My family and I live on the south side of Ridgeside Village.#$b#Welcome!$h",
+: "Hei, petani!#$b#Kamu baru pindah kesini kan?#$b#Namaku Bert!#$b#Aku dan keluarga tinggal di Ridgeside Village area selatan.#$b#Selamat datang!$h",
 
 //Spring
 "Bert.Dialogue.spring_1"
@@ -11685,7 +11685,7 @@
 
 
 "Trinnie.Dialogue.Introduction"
-: "Hi!$h#$b#Aren't ya new here?#$b#You're definitely a new face!$h#$b#My name's Trinnie!#$b#T-R-I-N-N-I-E, okay?#$b#Not Trina.$s#$b#Not Tiny.$a#$b#Trinnie, got that?$h",
+: "Hai!$h#$b#Kamu orang baru kan?#$b#Baru kali ini kita bertemu!$h#$b#Namaku Trinnie!#$b#T-R-I-N-N-I-E, oke?#$b#Bukan Trina.$s#$b#Bukan Tini.$a#$b#Trinnie, paham kan?$h",
 
 //Spring
 "Trinnie.Dialogue.spring_1"
