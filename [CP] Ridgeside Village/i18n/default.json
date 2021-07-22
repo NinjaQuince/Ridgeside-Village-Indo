@@ -821,233 +821,233 @@
 
 //Alissa singing to herself (Alissa 2 hearts)
 "event-75160114.01"
-: "Ohh, that was a good verse!$h#$b#I didn't know I could hit that note there!.#$b#I wonder if I can repeat it... $s#$b#One more time. $h",
+: "Ohh, baitnya bagus!$h#$b#Tak kusangka aku bisa memainkan nadanya!.#$b#Aku bisa ulangi tidak ya... $s#$b#Sekali lagi. $h",
 "event-75160114.02"
-: "Ahem... Okay...$h",
+: "Ahem... Oke...$h",
 "event-75160114.03"
-: "I think that was better? $h",
+: "Kurasa itu lebih baik. $h",
 "event-75160114.04"
-: "@!!$u#$b#You heard me?$s#$b#I... Um...$s#$b#That was... I'm sorry!!$s",
+: "@!!$u#$b#Kau mendengarku?$s#$b#Aku... Em...$s#$b#Itu tadi... Maaf!!$s",
 "event-75160114.05"
-: "Why did she run away?#There was nothing to be embarrassed about.",
+: "Kenapa dia lari?#Padahal tak ada yang perlu dipermalukan.",
 "event-75160114.06"
-: "Ummm... I'm sorry I ran away earlier. I'm really shy about that!$s",
+: "Emmm... Maaf aku tadi kabur. Aku sangat malu!$s",
 
 //Alissa at the town (Alissa 4 hearts)
 "event-75160115.01"
-: "Hi @... Hey.$s#$b#I just wanted to say I'm sorry for running away from you the other day.$s#$b#I hadn't apologized to you properly for that. That must have been confusing.$s",
+: "Hai @... Hei.$s#$b#Aku cuma mau minta maaf sudah lari darimu tempo hari.$s#$b#Aku belum minta maaf dengan benar. Pasti kamu kebingungan.$s",
 "event-75160115.02"
-: "Why? Oh! I was just really embarrassed.$u#$b#I don't sing around other people.#$b#Like, ever.$s",
+: "Kenapa? Oh! Aku sangat malu.$u#$b#Aku tidak bernyanyi di depan orang lain.#$b#Belum pernah.$s",
 "event-75160115.03"
-: "What should I tell her?",
+: "Aku harus bilang apa padanya?",
 "event-75160115.04"
-: "I really liked listening to you sing.",
+: "Aku suka mendengarmu menyanyi.",
 "event-75160115.05"
-: "But there was nothing to be shy about",
+: "Tapi tak ada yang perlu dipermalukan",
 "event-75160115.06"
 : "Oh!$u",
 "event-75160115.07"
-: "You really liked it?#$b# I... thank you...$u#$b#@, I... want you to listen to the song I'm writing when it's done.#$b#I don't have many friends my age, and I don't want to ask my family what they think.#$b#They're too supportive and might not give me honest feedback.$s#$b#But please don't tell anyone about it, okay?$a",
+: "Kamu beneran suka?#$b# Aku... terima kasih...$u#$b#@... kalau lagu yang kutulis selesai, aku ingin kau mendengarnya.#$b#Aku tidak punya banyak teman sebaya, dan tak ingin minta pendapat keluarga.#$b#Mereka terlalu mendukung, takutnya mereka tidak bisa jujur.$s#$b#Tapi tolong jangan beritahu siapa-siapa, oke?$a",
 "event-75160115.08"
-: "Thanks! I-I'm actually kind of excited, @.$h#$b#I'll let you know when it's done!$h",
+: "Makasih! A-Aku jadi semangat, @.$h#$b#Akan kuberitahu kalau sudah selesai!$h",
 "event-75160115.09"
-: "I better go back to the farm now.#$b#I only came in to town to buy some seeds from Pierre.$h#$b#See you, @!#$b#And I'm sorry again!$h",
+: "Aku akan kembali ke kebun.#$b#Aku cuma ke kota untuk beli benih dari Pierre.$h#$b#Sampai jumpa, @!#$b#Dan aku minta maaf lagi!$h",
 "event-75160115.10"
-: "You and Alissa bump into each other as you both try to go your own ways",
+: "Kamu dan Alissa bertabrakan saat mau berpisah",
 "event-75160115.11"
-: "Oh! Uhm! I'm sorry again, @!$7#$b#Oh, gosh.$u#$b#Er. See you! Goodbye again!$u",
+: "Oh! Ehm! Aku minta maaf lagi, @!$7#$b#Astaga.$u#$b#Er. Sampai jumpa lagi!$u",
 "event-75160115.12"
-: "Um, @? I moved so you can go ahead.$7#$b#Oh, Yoba. We are so out of sync!$h",
+: "Um, @? Aku sudah minggir biar kamu bisa lewat.$7#$b#Demi Yoba. Kita tidak bisa kompak!$h",
 "event-75160115.13"
 : "Hahaha! $h",
 "event-75160115.14"
-: "Ahaha. That was awkward, but also hilarious.$h",
+: "Ahaha. Tadi itu canggung, tapi lucu.$h",
 
 //Alissa wrote a song (Alissa 6 hearts part 2)
 "event-75160118.01"
-: "@! I've been waiting!$h#$b#C'mere!$h",
+: "@! Aku sudah menunggumu!$h#$b#Kemarilah!$h",
 "event-75160118.02"
-: "Okay, so... Um. It's a little embarrassing.$u#$b#But here, look. The lyrics are all done and I figured out some chords to go along.#$b# I want to sing the song with accompaniment, though.$s#$b#Singing it alone is just... that's a lot, you know?.$u",
+: "Oke, em... Ini agak memalukan.$u#$b#Tapi lihat. Liriknya sudah selesai dan sudah kuberi paduan nada.#$b# Tapi aku mau menyanyi dengan iringan musik.$s#$b#Menyanyi saja itu... bikin malu, kau tahu?.$u",
 "event-75160118.03"
-: "Hey! Do you think it would be okay to use the keyboard at the stage?#$b#I haven't seen anyone use it for a while now. I do hope it's still working.$u#$b#But only as long as there's no one nearby who can hear me!$u",
+: "Hei! Apa menurutmu kita boleh pakai keyboard di panggung?#$b#Sudah lama tidak ada yang memakainya. Semoga masih bisa berfungsi.$u#$b#Asal selama tidak ada orang lain yang dengar!$u",
 "event-75160118.04"
-: "Okay. I can do this. Okay...#$b#Let's go. Let's give it a try!#$b#Just... just as long as there's no one else around, okay?$u",
+: "Oke. Aku pasti bisa. Oke...#$b#Kalau begitu, ayo kita coba!#$b#Asal... asal tidak ada orang, oke?$u",
 "event-75160118.05"
-: "Okay... I don't see anyone! $h#$b#Pika's shop must be closed today!",
+: "Oke... Tidak ada orang! $h#$b#Tokonya Pika hari ini juga tutup!",
 "event-75160118.06"
-: "Alright, let's go! Let's hurry!#$b#I don't want anyone to hear me!$u",
+: "Baiklah, ayo cepat!#$b#Aku tak ingin ada yang dengar!$u",
 "event-75160118.07"
-: "Okay... Umm. I used to have one of these before...#$b#Boy, I hope it turns on...",
+: "Oke... Emm. Dulu aku pernah punya ini...#$b#Semoga mau menyala...",
 "event-75160118.08"
-: "Oh, nice!$h#$b#I got it!",
+: "Mantap!$h#$b#Bisa menyala!",
 "event-75160118.09"
-: "Okay... Here goes, @.$h",
+: "Oke... Kita mulai, @.$h",
 "event-75160118.10"
 : "Ahem...$u",
 "event-75160118.11"
-: "Oops! I forgot to turn up the volume!$u#$b#Okay! Take two!$u",
+: "Ups! Aku lupa menaikkan volumenya!$u#$b#Oke! Percobaan kedua!$u",
 "event-75160118.12"
-: "Alissa is smiling as she sings.",
+: "Alissa tersenyum selama menyanyi.",
 "event-75160118.13"
-: "Soo... Um...$7#$b#Did you like it? How was it?$u",
+: "Jadi... Em...$7#$b#Bagaimana? Apa kau suka?$u",
 "event-75160118.14"
-: "I... I, uh...$u",
+: "Aku... Aku, eh...$u",
 "event-75160118.15"
-: "Oh my! Alissa, was that you singing?$h",
+: "Astaga! Alissa, tadi itu kamu yang menyanyi?$h",
 "event-75160118.16"
-: "Miss Lenny!?$s#$b#Uh, you heard all that?$s#$b#I'm sorry for the disturbance!$u",
+: "Bu Lenny!?$s#$b#Eh, anda mendengar semuanya?$s#$b#Maaf kalau sudah menganggu!$u",
 "event-75160118.17"
-: "Oh no dear!$h#$b#Don't be sorry now! Why would you be? You have such a beautiful voice!$h#$b#The whole village would love to hear it more often, don't you know?",
+: "Oh tidak manis!$h#$b#Kamu tidak perlu meminta maaf! Suaramu sangat indah!$h#$b#Warga desa akan senang jika sering mendengarnya, kau tahu?",
 "event-75160118.18"
-: "Huh? What? The town!?$u#$b#They've heard me?#$b#Uhmm... I don't... I...$s#$b#I think I should leave...$s",
+: "Hah? Apa? Warga!?$u#$b#Mereka semua mendengarku?#$b#Uhmm... Kurasa... Aku...$s#$b#Kurasa aku harus pergi...$s",
 "event-75160118.19"
-: "Alissa, dear! Why are you so afraid, when your voice is so lovely?$s#$b#I have a proposal for you. It's about a little town get-together I've been planning.#$b#What if you did a little performance?#$b#I know everyone would love that, if you're comfortable.",
+: "Alissa, manis! Kenapa kamu takut begitu? Suaramu indah sekali lho.$s#$b#Aku punya tawaran buatmu. Ini ada hubungannya dengan acara kecil di kota yang sedang kurencakan.#$b#Bagaimana kalau kamu tampil?#$b#Kalau kamu mau semua orang pasti menikmatinya.",
 "event-75160118.20"
-: "What!? Me, sing for the town?!$s#$b#I... I don't know, Miss Lenny!$s#$b#I...$s",
+: "Apa!? Aku, menyanyi di depan warga?!$s#$b#En-Entahlah, Bu Lenny!$s#$b#Aku...$s",
 "event-75160118.21"
-: "Now, dear. I'll understand if you don't want to.#$b#But, near about everyone has heard you sing here and there, and between you and me, your voice is the worst-kept beautiful secret in this village. #$b#Please do think about it, okay?#$b#I'll see you kids around!$h",
+: "Tenang, manis. Kalau kamu tidak mau aku paham kok.#$b#Tapi hampir semua orang pernah mendengarmu menyanyi. Dan jujur saja, suara indahmu itu sudah bukan rahasia lagi di desa ini. #$b#Tolong dipikirkan baik-baik ya?#$b#Sampai jumpa lagi, anak-anak!$h",
 "event-75160118.22"
-: "Uhm... @...$s#$b#To be honest... I've known... thought, I guess, since I was little that my singing voice is actually obnoxious.$s#$b#I thought anyone who said something nice was just being kind...$s#$b#I... don't remember who told me it was annoying. Or when they told me that..$s#$b#But to be honest... I really, REALLY want to sing! And I really like singing for people! $u",
+: "Ehm... @...$s#$b#Jujur... Aku kira... sejak kecil suaraku sangat buruk.$s#$b#Dan kukira orang-orang memujiku karena tidak mau menyakiti hatiku...$s#$b#Aku juga... tidak ingat siapa dan kapan ada yang bilang suaraku jelek...$s#$b#Tapi jujur saja... Aku sangat, INGIN sekali menyanyi! Dan aku suka menyanyi untuk orang lain! $u",
 "event-75160118.23"
-: "But... I'm scared.$s#$b#Ugh. I hate this.$s#$b#I've never been able to go through with singing for anyone, especially like this. $s#$b#I'm afraid I'll disappoint....$s",
+: "Tapi... Aku takut.$s#$b#Argh. Aku benci ini.$s#$b#Aku belum pernah menyanyi untuk siapapun karena ini. $s#$b#Aku takut mereka akan kecewa....$s",
 "event-75160118.24"
-: "Hey @... I'm really nervous!$s#$b#I want to, but I don't want to! I don't know!$s",
+: "Hei @... Aku sangat gugup!$s#$b#Aku mau, tapi tidak mau! Aku bingung!$s",
 "event-75160118.25"
-: "Alissa seems so nervous....",
+: "Alissa tampak gugup....",
 "event-75160118.26"
-: "I think it's time to try again.",
+: "Ini saatnya untuk mencoba lagi.",
 "event-75160118.27"
-: "Everyone here supports you no matter what..",
+: "Semua orang disini akan selalu mendukungmu..",
 "event-75160118.28"
-: "Yeah... I guess you're right..$s#$b#Okay. I'll do the show.$u#$b#But, @... please be there for me.$a#$b#I might decide to run away to Zuzu the day before!$h#$b#But seriously though... I'm shaking really bad right now.$u#$b#Literally. I'm really shaking!$u",
+: "Ya... Kurasa kau benar..$s#$b#Oke. Aku akan tampil.$u#$b#Tapi, @... tolong temani aku.$a#$b#Bisa-bisa aku kabur ke Zuzu sebelum hari-H!$h#$b#Tapi serius... Sekarang ini aku gemetaran.$u#$b#Gemetaran sekali!$u",
 "event-75160118.29"
-: "I think I need a breather!$u#$b#Okay Alissa... You got this!$a#$b#Um... I could write a new song for the show.$u",
+: "Aku harus tarik nafas!$u#$b#Oke Alissa... Kamu pasti bisa!$a#$b#Em... Aku akan menulis lagu baru untuk penampilan.$u",
 "event-75160118.30"
-: "Alissa calmed down after a bit.#We went back to her place and she started brainstorming ideas for a new song just for the village.",
+: "Alissa bisa tenang setelahnya.#Kami kembali ke rumahnya dan langsung bertukar ide untuk lagu barunya di penampilan.",
 "event-75160118.31"
-: "Okay Alissa... Okay... You got this!$a#$b#%Alissa is shaking from nervousness",
+: "Oke Alissa... Oke... Kamu pasti bisa!$a#$b#%Alissa gemetaran karena gugup",
 
 //Alissa concert (Alissa 8 hearts part 2)
 "event-75160120.01"
-: "@, I'm glad you came!$8#$b#I'm still shaking though! I feel like I could explode any second, I'm so nervous.$11#$b#Okay... Calm down, Alissa... Don't back down now.$11",
+: "@, aku senang kamu datang!$8#$b#Aku masih gemetaran! Rasanya seperti akan meledak saking gugupnya.$11#$b#Oke... Tenanglah, Alissa... Jangan mundur.$11",
 "event-75160120.02"
-: "Well, then. Seems your awaited guest has arrived, Alissa!$h#$b#Let's start the concert now! Everyone's excited to hear you!$h",
+: "Baiklah, sepertinya tamu yang kau tunggu sudah datang, Alissa!$h#$b#Mari kita mulai konsernya! Semuanya menantikanmu!$h",
 "event-75160120.03"
-: "Hey, Miss Lenny! You didn't have to say that first part out loud!$9",
+: "Hei, Bu Lenny! Jangan keras-keras bilangnya!$9",
 "event-75160120.04"
-: "You look lovely in that dress, Alissa! I'm so proud!$h",
+: "Kamu cantik sekali pakai gaun itu, Alissa! Aku sangat bangga!$h",
 "event-75160120.05"
-: "Good luck out there, lass! Have fun!$h",
+: "Semoga beruntung, nak! Bersenang-senanglah!$h",
 "event-75160120.06"
-: "Thank you guys. I'll... I'll try! I'm still so nervous!$8",
+: "Terima kasih semuanya. Akan... Akan kucoba! Aku masih gugup!$8",
 "event-75160120.07"
-: "Whoa, Alissa, this is one big crowd!$h#$b#We'll do our best playing your songs!",
+: "Whoa, Alissa, penontonnya banyak sekali!$h#$b#Kami akan berusaha sebaik mungkin untuk memainkan lagumu!",
 "event-75160120.08"
-: "This is gonna be fun! Just imagine the audience in their underwear!$h",
+: "Ini pasti akan seru! Bayangkan saja penontonnya cuma pakai celana dalam!$h",
 "event-75160120.09"
-: "We got your back, Alissa. Just take a breath and do it like we practiced.$h",
+: "Kami akan membantumu, Alissa. Tarik nafas dan lakukan seperti latihan.$h",
 "event-75160120.10"
-: "Thank... Thanks, you guys!$11#$b#Thank you so much for performing with me.$8",
+: "Terima kasih... semuanya!$11#$b#Terima kasih banyak sudah mau tampil bersamaku.$8",
 "event-75160120.11"
-: "Hey, no biggie! And you can crash our jam sessions anytime, okay?$h",
+: "Hei, tidak masalah! Kamu bisa ikut latihan kamu kapanpun, oke?$h",
 "event-75160120.12"
-: "Oh! Um, you got it!$8",
+: "Oh! Em, pasti!$8",
 "event-75160120.13"
-: "I'm so overwhelmed right now!$11",
+: "Rasanya aku mau pingsan!$11",
 "event-75160120.14"
-: "Okay everyone! Gather around! Let's all welcome our very own pop star!$h#$b#Alissa Liden!$h",
+: "Perhatian! Ayo berkumpul, semuanya! Mari kita sambut bintang pop kita!$h#$b#Alissa Liden!$h",
 "event-75160120.15"
-: "Okay guys, you can go on stage now. The instruments and audio are all set!$h",
+: "Oke, kalian bisa naik panggung. Semua instrumen dan audionya sudah siap!$h",
 "event-75160120.16"
-: "Umm. I would like to welcome everybody to Ridgeside Village.$11#$b#And I hope you all enjoy!$10",
+: "Emm. Sebelumnya aku mau menyambut semuanya di Ridgeside Village. Selamat datang.$11#$b#Dan semoga kalian menikmatinya!$10",
 "event-75160120.17"
-: "GO BIG SIS ALISSA!!!$h",
+: "AYO KAKAK ALISSA!!!$h",
 "event-75160120.18"
-: "Let's hear it!$h",
+: "Ayo dengarkan!$h",
 "event-75160120.19"
-: "Woohoo! Let's dance!$h",
+: "Woohoo! Ayo menari!$h",
 "event-75160120.20"
-: "Let's jam!$h",
+: "Ayo mulai!$h",
 "event-75160120.21"
-: "Splendid show!$h",
+: "Luar biasa!$h",
 "event-75160120.22"
-: "Encore!$h",
+: "Lagi!$h",
 "event-75160120.23"
-: "That was fun!$h",
+: "Seru sekali!$h",
 "event-75160120.24"
-: "Again!!$h",
+: "Lagi!!$h",
 "event-75160120.25"
-: "She sounded amazing!$h",
+: "Suaranya indah!$h",
 "event-75160120.26"
-: "That was marvelous!$h",
+: "Menakjubkan!$h",
 "event-75160120.27"
-: "Her voice is as beautiful as her!$h",
+: "Suaranya secantik orangnya!$h",
 "event-75160120.28"
-: "MORE!$h",
+: "LAGI!$h",
 "event-75160120.29"
-: "That's my niece!$h",
+: "Itu baru keponakanku!$h",
 "event-75160120.30"
-: "Th... Thank you! Thank you, everyone!$10#$b#And, ummm... a big thank you for @, too!$9#$b#Without him, I wouldn't have had the courage to sing here for all of you!$9^Without her, I wouldn't have had the courage to sing here for all of you!$9",
+: "Te... Terima kasih! Terima kasih, semuanya!$10#$b#Dan, emmm... terima kasih yang banyak juga pada @!$9#$b#Tanpa dia aku tidak akan berani menyanyi di atas sini!$9",
 "event-75160120.31"
-: "Alissa and the band continued to play for the crowd with more songs.#Alissa looks so happy and confident now!#Everyone had fun!",
+: "Alissa dan Band melanjutkan konser dengan lagu lain.#Sekarang Alissa tampak lebih senang dan percaya dini!#Semuanya bersenang-senang!",
 "event-75160120.32"
-: "Hey, @... Thank you for everything!$l#$b#I feel a little bit more confident now!$h#$b#I hope everyone had fun!$h",
+: "Hei, @... Terima kasih atas segalanya!$l#$b#Aku jadi lebih pede sekarang!$h#$b#Semoga semua menikmati konsernya!$h",
 
 //Alissa and farmer at shed (Alissa 10 hearts)
 "event-75160121.01"
-: "Oh! @! It's you.#$b#I was just pulling some boxes out.#$b#It's harvest time after all!$h",
+: "Oh! @! Ternyata kamu.#$b#Aku sedang menyiapkan kardus-kardus ini.#$b#Soalnya sudah musim panen!$h",
 "event-75160121.02"
-: "Hey, um... do you mind staying here for a while?$l#$b#I'd like to spend time with you, even if it's just during work....$l#$b#Want to help me start the harvest in the orchard?$h",
+: "Hei, um... apa kamu mau disini dulu sebentar?$l#$b#Aku ingin meluangkan waktu denganmu, walaupun saat bekerja....$l#$b#Mau membantuku panen di kebun buah?$h",
 "event-75160121.03"
-: "Oh! Okay then, let's go!$l",
+: "Oh! Oke, kalau begitu ayo!$l",
 "event-75160121.04"
-: "Hey... @.$l",
+: "Hei... @.$l",
 "event-75160121.05"
-: "Thank you for... um, everything, I guess.$l#$b#I've changed so much since I met you, in a good way.$l#$b#I have a little more confidence in myself now because you believe in me, and you're too smart to be completely wrong, haha.$l#$b#And I want to make sure you feel as loved as you make me feel.$l#$b#I love you @. So, so much.$l#$b#I could burst out in a song right now!$h",
+: "Terima kasih... em, atas segalanya.$l#$b#Aku sudah banyak berubah sejak bertemu denganmu.$l#$b#Aku jadi lebih pede karena kamu percaya denganku, dan kamu terlalu cerdas untuk mengambil keputusan yang salah, haha.$l#$b#Dan aku ingin menyayangimu sebanyak kau menyayangiku.$l#$b#Aku sayang kamu @. Sangat, sayang, sekali.$l#$b#Saking sayangnya bisa-bisa aku menyanyi sendiri!$h",
 "event-75160121.06"
-: "Hey @, let's take all this back to the shed, okay? There's lots of room...$7#$b#Okay?$l",
+: "Hei @, ayo bawa semuanya ke gudang, oke? Masih ada banyak ruang...$7#$b#Oke?$l",
 "event-75160121.07"
-: "Hey... Stay with me for a little longer, please?$l< $l",
+: "Hei... Jangan pergi dulu ya?$l< $l",
 
 //Alissa in the shed (Alissa extra event)
 "event-75160116.01"
-: "Oh no... I forgot to sort out the boxes for the next shipment.$s#$b#Hmmm... This might take a while.$s",
+: "Tidak... Aku lupa menyiapkan kardus untuk kiriman selanjutnya.$s#$b#Hmmm... Ini akan butuh waktu lama.$s",
 "event-75160116.02"
-: "@? Uh?",
+: "@? Eh?",
 "event-75160116.03"
-: "What are you doing here @?#$b#Why are you snooping around my shed?$a",
+: "Kenapa kamu kesini @?#$b#Kenapa kamu menyelinap di gudangku?$a",
 "event-75160116.04"
-: "What should I tell her?",
+: "Aku harus bilang apa?",
 
 	//Response 1
 "event-75160116.05"
-: "Nothing, just curious.",
+: "Tak ada apa-apa, cuma penasaran.",
 "event-75160116.Fork1"
-: "That's kind of weird...#$b# Maybe don't be curious about others' private property?#$b# I'm teasing! But I will remember to lock the shed tonight.$a",
+: "Itu aneh...#$b# Jangan suka menyelinap ke rumah orang lain ya?#$b# Aku bercanda! Tapi akan kukunci gudangnya nanti malam.$a",
 
 	//Response 2
 "event-75160116.06"
-: "I missed you and I was looking for you.",
+: "Aku kangen jadi aku mencarimu.",
 "event-75160116.Fork2"
-: "U-uh, what?$7#$b#Hey, don't joke around like that!$l",
+: "E-eh, apa?$7#$b#Hei,hal seperti itu jangan dibuat bercanda!$l",
 
 	//Response 3
 "event-75160116.07"
-: "I was spying on my competition.",
+: "Aku sedang memata-matai sainganku.",
 "event-75160116.Fork3"
-: "Aha! I should've known!$a#$b#You fool! You won't find anything here though!$a#$b#For I haven't sorted anything yet!$h#$b#Haha! Nice one @!$h",
+: "Aha! Sudah kuduga!$a#$b#Dasar bodoh! Kau takkan menemukan apapun disini!$a#$b#Karena aku belum merapikan ini semua!$h#$b#Haha! Usaha bagus @!$h",
 
 	//Continued
 "event-75160116.08"
-: "But hey @. Since you're here. Can you help me sort some of my products?#$b#It's going to be quick I swear!$h#$b#And it might be fun doing work with a friend.$h",
+: "Tapi @. Mumpung kamu disini. Maukah kau membantuku menata beberapa produkku?#$b#Sebentar kok. Aku janji!$h#$b#Pasti seru kerja bersama teman.$h",
 "event-75160116.09"
-: "Ohhh nice! Thank you so much @!$h#$b#Okay, I'll start here. You take that spot there.$h",
+: "Ohhh bagus! Terima kasih banyak @!$h#$b#Oke, aku akan mulai dari sini. Dan kamu urus yang disana ya.$h",
 "event-75160116.10"
-: "Alissa is humming a beautiful tune.",
+: "Alissa menyanyikan nada yang indah.",
 "event-75160116.11"
-: "Alissa and I sorted the boxes with ease.#It was relaxing work alongside her occasional pleasant humming.",
+: "Aku dan Alissa menata kardusnya dengan mudah.#Tenang rasanya bekerja sambil mendengar lantunan nadanya yang indah.",
 "event-75160116.12"
-: "Thank you so much for the help earlier at the shed @!$h",
+: "Terima kasih atas bantuannya di kandang @!$h",
 
 //Bert helped by farmer (Bert 2 hearts)
 "event-75160065.01"
@@ -1394,7 +1394,7 @@
 "event-75160125.01"
 : "@? Hey, it's late.#$b#What are you still doing out here?#$b#I'm sorry if I was a bit snappish the last time.$s#$b#I was just really angry about that jerk. He wants me to hurt others? I mean, the nerve!$a",
 "event-75160125.02"
-: "But hey, @.#$b#Thanks for being accompanying me that time.$h#$b#I really appreciate all the things you've been doing for me.#$b#You're too sweet, you know that?$h",
+: "But hey, @.#$b#Thanks for accompanying me that time.$h#$b#I really appreciate all the things you've been doing for me.#$b#You're too sweet, you know that?$h",
 "event-75160125.03"
 : "Oh stop it, you!$h",
 "event-75160125.04"
