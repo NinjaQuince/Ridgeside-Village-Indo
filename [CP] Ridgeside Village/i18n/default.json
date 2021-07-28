@@ -1033,244 +1033,244 @@
 
 	//Response 3
 "event-75160116.07"
-: "Aku sedang memata-matai sainganku.",
+: "Aku sedang memata-matai pesaing.",
 "event-75160116.Fork3"
 : "Aha! Sudah kuduga!$a#$b#Dasar bodoh! Kau takkan menemukan apapun disini!$a#$b#Karena aku belum merapikan ini semua!$h#$b#Haha! Usaha bagus @!$h",
 
 	//Continued
 "event-75160116.08"
-: "Tapi @. Mumpung kamu disini. Maukah kau membantuku menata beberapa produkku?#$b#Sebentar kok. Aku janji!$h#$b#Pasti seru kerja bersama teman.$h",
+: "Tapi @. Mumpung kamu disini. Maukah kau membantu menata beberapa produkku?#$b#Sebentar kok. Aku janji!$h#$b#Pasti seru kerja bersama teman.$h",
 "event-75160116.09"
 : "Ohhh bagus! Terima kasih banyak @!$h#$b#Oke, aku akan mulai dari sini. Dan kamu urus yang disana ya.$h",
 "event-75160116.10"
 : "Alissa menyanyikan nada yang indah.",
 "event-75160116.11"
-: "Aku dan Alissa menata kardusnya dengan mudah.#Tenang rasanya bekerja sambil mendengar lantunan nadanya yang indah.",
+: "Aku dan Alissa menata gudang dengan mudah.#Tenang rasanya bekerja sambil mendengar lantunan nada yang indah.",
 "event-75160116.12"
-: "Terima kasih atas bantuannya di kandang @!$h",
+: "Terima kasih atas bantuannya di gudang @!$h",
 
 //Bert helped by farmer (Bert 2 hearts)
 "event-75160065.01"
-: "Oh, boy. This don't sound good at all.$s",
+: "Astaga. Ini gawat sekali.$s",
 "event-75160065.02"
-: "Hey @, do you have a moment?#$b#Any chance you can help me out a bit here?$h",
+: "Hei @, boleh minta waktunya?#$b#Maukah kau membantuku sedikit?$h",
 "event-75160065.03"
-: "Should I?",
+: "Mau bantu?",
 
 	//Farmer agrees to help
 "event-75160065.04"
-: "Sure! I'll help you.",
+: "Tentu! Akan kubantu.",
 "event-75160065.Fork1"
-: "Thanks a lot, @! You're the best!$h",
+: "Makasih banyak, @! Kamu memang yang terbaik!$h",
 "event-75160065.06"
-: "Here, you hold onto this doohickey here while I reach inside.",
+: "Ini, kamu pegang alat kecil ini sementara aku masukkan tanganku.",
 "event-75160065.07"
-: "Okay. Hold on tight now.$a",
+: "Oke. Pegang yang erat.$a",
 "event-75160065.08"
-: "Aha! Sounds sweet as a lullaby!$h#$b#Good work, @!$h",
+: "Aha! Sudah mulus!$h#$b#Kerja bagus, @!$h",
 "event-75160065.09"
-: "Couldn't have done it without ya!$h#$b#Say, are you up for grabbin' a beer or somethin'?#$b#We deserve one after a hard day's work, huh?$h",
+: "Terima kasih atas bantuannya!$h#$b#Jadi, apa kamu mau minum bir atau yang lain?#$b#Kita butuh istirahat setelah kerja seharian, kan?$h",
 "event-75160065.10"
-: "Sounds good!#$b#Go grab one of the lawn chairs over younder.#$b#I'll head on inside and get our drinks.$h",
+: "Bagus!#$b#Duduklah di kursi sana.#$b#Akan kuambilkan minumannya dulu.$h",
 "event-75160065.11"
-: "Bert's easy to talk to and pretty funny..#He seems really nice.",
+: "Bert enak diajak ngobrol dan lucu..#Dia orang yang baik.",
 
 	//Farmer doesn't agree to help
 "event-75160065.05"
-: "Sorry, I'm busy.",
+: "Maaf, aku sibuk.",
 "event-75160065.Fork2"
-: "Oh, that's too bad. %fork$s",
+: "Oh, sayang sekali. %fork$s",
 "event-75160065.BertSad.01"
-: "Oh well. I guess you better get going then, huh?#$b#I'll figure out how to fix this on my own, no worries!#$b#Bye now @.",
+: "Baiklah. Kalau begitu silahkan dilanjut.#$b#Akan kuperbaiki ini sendiri, tenang saja!#$b#Sampai jumpa @.",
 
 //Bert problem with Trinnie (Bert 4 hearts)
 "event-75160066.01"
-: "Now, now, princess. You know that it was just a joke.$s#$b#I'm just messing with you! I was trying to make you smile.$s",
+: "Tenang, tuan putri. Papa sedang bercanda.$s#$b#Papa tidak serius! Papa cuma ingin membuatmu tersenyum.$s",
 "event-75160066.02"
-: "You know how I feel about Keahi!!$s#$b#That was so mean, Papa!!$s",
+: "Papa tahu sendiri kan perasaanku ke Keahi!!$s#$b#Papa jahat!!$s",
 "event-75160066.03"
-: "Trinnie is sobbing",
+: "Trinnie menangis",
 "event-75160066.04"
 : "Waaah!$s",
 "event-75160066.05"
-: "Oh boy. I sure done it this time.$s#$b#Olga might have me a come to Yoba on this later.$s",
+: "Astaga. Kali ini dia marah beneran.$s#$b#Olga akan membunuhku sehabis ini.$s",
 "event-75160066.06"
-: "@! What a surprise!$u#$b#I suppose you heard Trinnie's crying, huh?$s",
+: "Wah ada @!$u#$b#Kau dengar Trinnie menangis ya?$s",
 "event-75160066.07"
-: "What was that about?#$b#Oh! Well, I do need your help again, @.#$b#So Trinnie has this little crush on her friend Keahi, right?#$b#And then so earlier, she came home all angry because from what I've heard they were playing house with Jas and Vincent.#$b#And then Keahi picked Jas to be the mommy while he was the daddy.#$b#Well, then little Trinnie got all tempered up from that little outcome and raced back home!$s#$b#I know it's a silly thing. So I teased her a bit about Keahi to try and cheer her up, but it backfired!#$b#At this point of time my friend, I'm at a loss as to how to handle my little girl.#$b#Before it was quite easy to calm a little toddler. But she's growing so fast and I can't seem to keep up!$s",
+: "Kenapa ia menangis?#$b#Oh! Aku butuh bantuanmu lagi, @.#$b#Jadi begini, Trinnie naksir sama temannya, Keahi.#$b#Dan tadi, pulang-pulang dia marah karena mereka main rumah-rumahan sama Jas dan Vincent.#$b#Karena Keahi yang jadi ayah memilih Jas untuk jadi Ibu.#$b#Yah, Trinnie langsung marah dan lari pulang!$s#$b#Itu memang hal yang konyol. Jadi aku menggodanya soal Keahi dan mencoba menghiburnya, tapi dia malah semakin marah!#$b#Saat inilah aku tak tahu bagaimana cara mendidik anak yang benar, kawan.#$b#Saat masih balita mudah sekali dibujuk agar tenang. Tapi sekarang pertumbuhannya cepat dan aku ketinggalan!$s",
 "event-75160066.08"
-: "What do I tell Bert?",
+: "Aku harus bilang apa ke Bert?",
 "event-75160066.09"
-: "Tell her that it's just a game and there are more games in the future.",
+: "Bilang padanya kalau itu cuma permainan dan masih ada banyak permainan lagi nanti.",
 "event-75160066.10"
-: "Tell her that Keahi might just be too shy to pick her.",
+: "Bilang padanya kalau Keahi malu memilihnya.",
 "event-75160066.11"
-: "Tell her that you'll buy her favorite ice cream later.",
+: "Bilang padanya kamu akan belikan dia es krim nanti.",
 "event-75160066.12"
-: "Hmmm, that sounds good @.#$b#Okay... Wish me luck! I'm entering the lion cub's den!$a",
+: "Hmmm, ide bagus @.#$b#Oke... Doakan aku ya! Aku mau masuk ke sarang singa!$a",
 "event-75160066.13"
-: "Little berry?? I'm coming in, okay?#$b#Papa has something to tell you.",
+: "Beri kecilku?? Papa masuk ya?#$b#Papa mau bilang sesuatu.",
 "event-75160066.14"
-: "*sniff*$s#$b#Okay, Papa...$s",
+: "*hiks*$s#$b#Iya, Papa...$s",
 "event-75160066.15"
-: "They seem to be talking it out now.",
+: "Sepertinya dia mau diajak bicara.",
 "event-75160066.16"
 : "Hmmm... Hee hee!$h",
 "event-75160066.17"
-: "My oh my. I'm sure glad I got that settled before the missus came home!$h#$b#Hey @! Thanks a lot for the help!$h",
+: "Untunglah. Aku lega masalah ini selesai sebelum istriku pulang!$h#$b#Hei @! Makasih banyak atas bantuannya!$h",
 "event-75160066.18"
-: "Really! You've helped me so much for some time now!$h#$b#Glad to be friends with you!",
+: "Sungguh! Kau sudah sering membantuku!$h#$b#Senang punya teman sepertimu!",
 "event-75160066.19"
-: "Hmm? Papa? @? What are you guys talking about?",
+: "Hmm? Papa? @? Kalian membicarakan apa?",
 "event-75160066.20"
-: "Oh nothing, sweetie!#$b#I'm just glad you're feeling better!$h",
+: "Oh bukan apa-apa, manis!#$b#Papa senang kamu sudah tidak sedih lagi!$h",
 "event-75160066.21"
-: "Thank you so much for the help, @!$h",
+: "Terima kasih banyak atas bantuannya, @!$h",
 
 //Bert plan for date with Olga (Bert 6 hearts)
 "event-75160067.01"
-: "Maybe like a little cruise? No, too expensive...$s",
+: "Mungkin ke kapal pesiar? Nggak, kemahalan...$s",
 "event-75160067.02"
-: "Hmm... How about a... Nah, she hates those.$s",
+: "Hmm... Gimana kalau... Jangan, dia benci itu.$s",
 "event-75160067.03"
-: "Ah! @! Just the pal I needed to see!$h#$b#I need your advice again about something!#$b#I'm kinda spinnin' my wheels right now.",
+: "Ah! @! Pas sekali!$h#$b#Aku butuh nasihatmu lagi!#$b#Aku sedang bingung.",
 "event-75160067.04"
-: "Okay! So... Olga and I are having our wedding anniversary soon. And I figured I would surprise her with a date!#$b#But the thing is, I don't know what kind of date to plan!$s#$b#I kinda need your help. What do you think would be a good surprise date?$h",
+: "Jadi begini... Peringatan perkawinanku dan Olga sebentar lagi. Dan aku ingin mengajaknya kencan sebagai kejutan!#$b#Masalahnya, aku bingung ingin kencan yang seperti apa!$s#$b#Jadi aku butuh bantuanmu. Kira-kira kencan apa yang bagus untuk kejutannya?$h",
 "event-75160067.05"
-: "What kind of surprise date should I suggest?",
+: "Kencan seperti apa yang kau sarankan?",
 
 	//Romantic Dinner
 "event-75160067.06"
-: "A romantic dinner for two, right here in town.",
+: "Makan malam romantis di kota ini.",
 "event-75160067.Fork1"
-: "Hmm. Yes, I do think that would be better.",
+: "Hmm. Ya, kurasa itu lebih baik.",
 
 	//Out of Town Date
 "event-75160067.07"
-: "A peaceful trip out of town.",
+: "Wisata damai diluar kota.",
 "event-75160067.Fork2"
-: "Why yes! She has been bugging me about going out of town for a while now!",
+: "Wah, kebetulan! Belakangan ini dia mengajakku keluar kota terus!",
 
 	//Continue
 "event-75160067.08"
-: "I made up my mind! Thanks for your advice @!$h#$b#I'm sure this will turn out great!$h",
+: "Sudah kuputuskan! Makasih atas nasihatnya @!$h#$b#Pasti ini akan sukses!$h",
 "event-75160067.09"
-: "Oh boy, I can't wait!$h",
+: "Astaga, aku sudah tak sabar lagi!$h",
 
 //(Bert 8 Hearts)
 //Bert and Olga date = Dinner
 "event-75160068.01"
-: "Papa, won't you relax?$a#$b#I bet Mama will be really surprised!$h",
+: "Papa, bisa tenang tidak?$a#$b#Mama pasti akan terkejut!$h",
 "event-75160068.02"
-: "You're right, princess.$h#$b#Okay, keep it down about the surprise now!$h#$b#She thinks that we're just going to go buy some groceries!$h",
+: "Kau benar, tuan putri.$h#$b#Oke, jangan keras-keras bilang kejutannya!$h#$b#Dia pikir kita sedang mau pergi belanja!$h",
 "event-75160068.03"
-: "Oh, @! Good to see you, my friend!$h#$b#I'm about to surprise Olga for our anniversary!$h#$b#What's that?#$b#Oh! Thank you! Now... let's keep it down, okay? She might get suspicious.",
+: "Oh, @! Senang melihatmu, teman!$h#$b#Aku mau mengejutkan Olga untuk peringatan pernikahan kami!$h#$b#Apa?#$b#Oh! Terima kasih! Sekarang... semuanya jangan keras-keras, oke? Dia bisa curiga.",
 "event-75160068.04"
-: "Okay, I'm ready now, hon.#$b#Oh? What's this? @? Hello! What are you doing here?#$b#Bert and I were just about to leave to go buy some groceries.",
+: "Aku sudah siap, sayang.#$b#Oh? Ada apa ini? @? Halo! Apa yang kau lakukan disini?#$b#Aku dan Bert baru saja mau pergi belanja kebutuhan harian.",
 "event-75160068.05"
-: "My good friend @ here has volunteered to babysit Trinnie, hun!$h#$b#We may be out for a while and Trinnie might get lonely here at home.#$b#Better safe than sorry, right?$h",
+: "Teman baikku @ menawarkan diri untuk mengasuh Trinnie, sayang!$h#$b#Kita mungkin akan lama jadi aku tak ingin Trinnie sendirian di rumah.#$b#Lebih baik jaga-jaga, kan?$h",
 "event-75160068.06"
-: "Hm? Why won't you just come with us, Trinnie? I thought you hate having babysitters over?#$b#What's gotten into you?",
+: "Hm? Kenapa kamu tidak ikut, Trinnie? Bukannya kamu benci dijaga pengasuh?#$b#Ada apa denganmu?",
 "event-75160068.07"
-: "Mama! Uh, I actually want to play with @ today! I wanted to hear some farm stories! So it's all fine!$h",
+: "Mama! Eh, hari ini aku ingin main sama @! Aku mau dengar cerita bertaninya! Jadi bukan masalah!$h",
 "event-75160068.08"
-: "Hmmm... I imagine you're a trustworthy person, @.#$b#You're Bert's good friend, after all.#$b#All right, I'll allow it.$h",
+: "Hmmm... Kurasa kamu orang yang bisa dipercaya, @.#$b#Lagipula, kamu juga temannya Bert.#$b#Baiklah, aku ijinkan.$h",
 "event-75160068.09"
-: "Well, hon? Shall we go now?#$b#C'mon! I've been dying to go buy some groceries!$h",
+: "Baiklah. Kita pergi sekarang, sayang?#$b#Ayo! Aku sudah tidak sabar untuk belanja!$h",
 "event-75160068.10"
-: "You got ants in your pants or something, Bert?$h#$b#If only you were this enthusiastic for buying groceries every week.$h",
+: "Celanamu kemasukan semut ya, Bert?$h#$b#Kalau saja kamu sesemangat ini setiap belanja mingguan.$h",
 "event-75160068.11"
-: "Hehe, it's nothing, my dear! I just heard there were some good sales today and didn't want us to miss out!$h",
+: "Hehe, bukan apa-apa, sayang! Katanya ada diskon bagus hari ini dan aku tak mau kita melewatkannya!$h",
 "event-75160068.12"
-: "Hmmm... Are you trying to make up for forgetting our anniversary yesterday?#$b#I'm still a little steamed about that, you know!$a",
+: "Hmmm... Apa ini karena kamu lupa peringatan pernikahan kemarin?#$b#Aku masih agak kesal soal itu, asal kau tahu!$a",
 "event-75160068.13"
-: "Oh no! I mean, let's go, hon! Time's a-wastin'!",
+: "Bukan! Ayo pergi, sayang! Jangan buang waktu lagi!",
 "event-75160068.14"
-: "Oh, fine.#$b#We'll see you two later. Trinnie, you behave for @, all right!$h",
+: "Oh, ya sudah.#$b#Sampai jumpa lagi nanti. Trinnie, jangan nakal sama @, ya!$h",
 "event-75160068.15"
-: "Okay, Mama! Have fun!#$b#ER I MEAN..$u#$b#Take care! I'll be good!$h",
+: "Oke, Mama! Selamat bersenang-senang!#$b#ER BUKAN..$u#$b#Hati-hati! Aku akan baik-baik saja!$h",
 "event-75160068.16"
-: "Hun? Where are you going?#$b#The town's this way.#$b#Come on, now!  I thought you were in a hurry for that sale?$a",
+: "Sayang? Kamu mau kemana?#$b#Kotanya lewat sini.#$b#Ayo, cepat! Bukannya kamu tak mau ketinggalan diskon?$a",
 "event-75160068.17"
-: "Wait, can we do a quick stop at the hotel first hun?#$b#I almost forgot about an errand I need to do.",
+: "Tunggu, kita ke hotel dulu ya, sayang?#$b#Ada urusan yang hampir lupa kukerjakan.",
 "event-75160068.18"
-: "What?$a",
+: "Apa?$a",
 "event-75160068.19"
-: "Come on! I'll be quick!$h",
+: "Ayolah! Tidak akan lama kok!$h",
 "event-75160068.20"
-: "Uhrgg, what's gotten into you today!$a",
+: "Ahrgg, hari ini kamu kenapa sih!$a",
 "event-75160068.21"
-: "Hey! What's the hurry? Why are we going up to the balcony?$a",
+: "Hei! Kenapa buru-buru? Kenapa kita naik ke balkon?$a",
 "event-75160068.22"
 : "Hehe!$h",
 "event-75160068.23"
-: "Surprise!$h#$b#Here's my real anniversary gift to you, hunny!$h#$b#Happy anniversary, my wonderful Olga!$4",
+: "Kejutan!$h#$b#Ini hadiah hari jadi kita buatmu, cantik!$h#$b#Selamat hari jadi pernikahan, Olgaku sayang!$4",
 "event-75160068.24"
-: "I...I... Bert! Honey!$4#$b#You big doofus!$4",
+: "Aku...Aku... Bert! Sayang!$4#$b#Dasar bodoh!$4",
 "event-75160068.25"
-: "Bertie... I... This is so much!$4",
+: "Bertie... Aku... Ini luar biasa!$4",
 "event-75160068.26"
-: "Just enjoy it, my dear!$h#$b#We gotta thank @ for helping me think this up, as well.$h#$b#But for now... let's enjoy our date!$4",
+: "Nikmatilah, sayang!$h#$b#Kita juga harus berterima kasih pada @.$h#$b#Tapi sekarang... mari nikmati kencan kita!$4",
 "event-75160068.27"
 : "Ohh, Bert..$4",
 "event-75160068.28"
-: "Hey, @.#$b#Do you think Mama and Papa are having fun right now?$h#$b#I'm really happy for them!$h",
+: "Hei, @.#$b#Apa menurutmu Mama dan Papa sedang bersenang-senang sekarang?$h#$b#Aku juga ikut senang!$h",
 
 //Bert and Olga date = OutofTown
 "event-75160069.01"
-: "Papa, won't you relax?$a#$b#I bet Mama will be really surprised!$h",
+: "Papa, bisa tenang tidak?$a#$b#Mama pasti akan terkejut!$h",
 "event-75160069.02"
-: "You're right, princess.$h#$b#Okay, keep it down about the surprise now!$h#$b#She thinks that we're just going to go buy some groceries!$h",
+: "Kau benar, tuan putri.$h#$b#Oke, jangan keras-keras bilang kejutannya!$h#$b#Dia pikir kita sedang mau pergi belanja!$h",
 "event-75160069.03"
-: "Oh, @! Good to see you, my friend!$h#$b#I'm about to surprise Olga for our anniversary!$h#$b#What's that?#$b#Oh! Thank you! Now... let's keep it down, okay? She might get suspicious.",
+: "Oh, @! Senang melihatmu, teman!$h#$b#Aku mau mengejutkan Olga untuk peringatan pernikahan kami!$h#$b#Apa?#$b#Oh! Terima kasih! Sekarang... semuanya jangan keras-keras, oke? Dia bisa curiga.",
 "event-75160069.04"
-: "Okay, I'm ready now, hon.#$b#Oh? What's this? @? Hello! What are you doing here?#$b#Bert and I were just about to leave to go buy some groceries.",
+: "Aku sudah siap, sayang.#$b#Oh? Ada apa ini? @? Halo! Apa yang kau lakukan disini?#$b#Aku dan Bert baru saja mau pergi belanja kebutuhan harian.",
 "event-75160069.05"
-: "My good friend @ here has volunteered to babysit Trinnie, hun!$h#$b#We may be out for a while and Trinnie might get lonely here at home.#$b#Better safe than sorry, right?$h",
+: "Teman baikku @ menawarkan diri untuk mengasuh Trinnie, sayang!$h#$b#Kita mungkin akan lama jadi aku tak ingin Trinnie sendirian di rumah.#$b#Lebih baik jaga-jaga, kan?$h",
 "event-75160069.06"
-: "Hm? Why won't you just come with us, Trinnie? I thought you hate having babysitters over?#$b#What's gotten into you?",
+: "Hm? Kenapa kamu tidak ikut, Trinnie? Bukannya kamu benci dijaga pengasuh?#$b#Ada apa denganmu?",
 "event-75160069.07"
-: "Mama! Uh, I actually want to play with @ today! I wanted to hear some farm stories! So it's all fine!$h",
+: "Mama! Eh, hari ini aku ingin main sama @! Aku mau dengar cerita bertaninya! Jadi bukan masalah!$h",
 "event-75160069.08"
-: "Hmmm... I imagine you're a trustworthy person, @.#$b#You're Bert's good friend, after all.#$b#All right, I'll allow it.$h",
+: "Hmmm... Kurasa kamu orang yang bisa dipercaya, @.#$b#Lagipula, kamu juga temannya Bert.#$b#Baiklah, aku ijinkan.$h",
 "event-75160069.09"
-: "Well, hon? Shall we go now?#$b#C'mon! I've been dying to go buy some groceries!$h",
+: "Baiklah. Kita pergi sekarang, sayang?#$b#Ayo! Aku sudah tidak sabar untuk belanja!$h",
 "event-75160069.10"
-: "You got ants in your pants or something, Bert?$h#$b#If only you were this enthusiastic for buying groceries every week.$h",
+: "Celanamu kemasukan semut ya, Bert?$h#$b#Kalau saja kamu sesemangat ini setiap belanja mingguan.$h",
 "event-75160069.11"
-: "Hehe, it's nothing, my dear! I just heard there were some good sales today and didn't want us to miss out!$h",
+: "Hehe, bukan apa-apa, sayang! Katanya ada diskon bagus hari ini dan aku tak mau kita melewatkannya!$h",
 "event-75160069.12"
-: "Hmmm... Are you trying to make up for forgetting our anniversary yesterday?#$b#I'm still a little steamed about that, you know!$a",
+: "Hmmm... Apa ini karena kamu lupa peringatan pernikahan kemarin?#$b#Aku masih agak kesal soal itu, asal kau tahu!$a",
 "event-75160069.13"
-: "Oh no! I mean, let's go, hon! Time's a-wastin'!",
+: "Bukan! Ayo pergi, sayang! Jangan buang waktu lagi!",
 "event-75160069.14"
-: "Oh, fine.#$b#We'll see you two later. Trinnie, you behave for @, all right!$h",
+: "Oh, ya sudah.#$b#Sampai jumpa lagi nanti. Trinnie, jangan nakal sama @, ya!$h",
 "event-75160069.15"
-: "Okay Mama! Have fun!#$b#ER I MEAN..$u#$b#Take care! I'll be good!$h",
+: "Oke, Mama! Selamat bersenang-senang!#$b#ER BUKAN..$u#$b#Hati-hati! Aku akan baik-baik saja!$h",
 "event-75160069.16"
-: "Hey, Bert? What's taking so long?$a#$b#I thought you were in a hurry because of the sales?!$a",
+: "Hei, Bert? Kenapa lama sekali?$a#$b#Bukannya kamu tidak mau ketinggalan diskonnya?!$a",
 "event-75160069.17"
-: "Hey hon, don't you think this bus is a little weird?#$b#It's parked over here and I'm curious about why.  Let's take a look.$h",
+: "Sayang, bukannya bus ini agak aneh?#$b#Aku penasaran kenapa diparkir disini. Ayo kita periksa.$h",
 "event-75160069.18"
-: "You're right!#$b#Why is the bus here? I thought it was broken?#$b#Wait a minute! This isn't the valley's local bus!",
+: "Oh iya!#$b#Kenapa busnya disini? Bukannya masih rusak?#$b#Tunggu dulu! Ini bukan bus lembah ini!",
 "event-75160069.19"
-: "Let's go check it out, hun!  Maybe somebody's in trouble!$h",
+: "Ayo kita periksa, sayang! Mungkin ada yang butuh bantuan!$h",
 "event-75160069.20"
-: "Wait!$u#$b#Bert you big doofus! Wait! Why is the bus moving?$a#$b#Where are we going? Why are we the only ones here?$a#$b#Hey driver! Get us out of here! We're not your passengers!$a",
+: "Loh!$u#$b#Bert, dasar bodoh! Tunggu! Kenapa busnya jalan?$a#$b#Mau dibawa kemana kita? Kenapa cuma ada kita disini?$a#$b#Hei, pengemudi! Keluarkan kami! Kami bukan penumpang!$a",
 "event-75160069.21"
-: "Hon!$u#$b#Wait a second and come here! Just relax!$u#$b#Let me explain!$u",
+: "Sayang!$u#$b#Sabar dulu! Kemarilah!$u#$b#Biar aku jelaskan!$u",
 "event-75160069.22"
-: "Wait... Where?$a",
+: "Ini... Dimana?$a",
 "event-75160069.23"
-: "Bert! Honey! Why are we here?$4",
+: "Bert! Sayang! Kenapa kita disini?$4",
 "event-75160069.24"
-: "Surprise, hon!$h#$b#This is my real anniversary gift for you!$4#$b#I know you've been wanting to go out of town for a date for quite some time now.$h#$b#I hope this makes you happy.$4#$b#@ gave me a hand in accomplishing all this!$h",
+: "Kejutan!$h#$b#Ini hadiah hari jadi kita untukmu!$4#$b#Aku tahu belakangan ini kamu ingin keluar kota.$h#$b#Semoga kamu senang dengan ini.$4#$b#@ yang membantu menyiapkan ini!$h",
 "event-75160069.25"
-: "Oh, Bertie... I...I'm so happy!$4",
+: "Oh, Bertie... Aku... Aku senang sekali!$4",
 "event-75160069.26"
-: "Let's not waste time, my Olga. Come on and let's enjoy!$4",
+: "Mari, Olgaku sayang. Jangan buang waktu lagi dan mari kita nikmati!$4",
 "event-75160069.27"
-: "Hey, @.#$b#Do you think Mama and Papa are having fun right now?$h#$b#I'm really happy for them!$h",
+: "Hei, @.#$b#Apa menurutmu Mama dan Papa sedang bersenang-senang sekarang?$h#$b#Aku juga ikut senang!$h",
 
 //Corine cuts her finger (Corine 2 hearts)
 "event-75160122.01"
