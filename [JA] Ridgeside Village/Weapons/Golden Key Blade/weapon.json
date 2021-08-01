@@ -1,6 +1,6 @@
 {
 	"Name": "Golden Key Blade",
-	"Description": "A weird shaped sword, meant to resemble a golden key. It is quite expensive due to the material it's made of as well.",
+	"Description": "Pedang dengan bentuk aneh, mirip seperti kunci emas. Lumayan mahal karena bahannya juga mahal.",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 60,

@@ -1,6 +1,6 @@
 {
 	"Name": "Bubble Club",
-	"Description": "A heavy hitting club that somehow produces bubbles when swung.",
+	"Description": "Pentungan berat yang mengeluarkan gelembung saat diayunkan.",
 	"Type": "club",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 40,
